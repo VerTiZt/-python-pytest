@@ -1,0 +1,1 @@
+name: Milk, price: 10.0, weight: 10.0, height: 10.0, shirina: 10.0
